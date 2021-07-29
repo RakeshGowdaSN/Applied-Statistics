@@ -19,8 +19,8 @@ charges: Individual medical costs billed by health insurance.
 
 Learning Outcomes:
  Exploratory Data Analysis
- Practicing statistics using Python
+ Statistics using Python
  Hypothesis testing
 
 Objective:
-We want to see if we can dive deep into this data to find some valuable insights.
+To dive deep into this data to find some valuable insights.
